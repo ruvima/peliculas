@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Descripción del proyecto
+## Descripción del proyecto 🐱
 
 
 - Proyecto realizado para aprender comprender los conceptos fundamentales para realizar el diseño de apps.
